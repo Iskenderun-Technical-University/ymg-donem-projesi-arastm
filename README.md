@@ -19,3 +19,4 @@ Uygulama, müşterilerin araç kiralama işlemlerini yönetmek için tasarlanmı
 Uygulama başlatıldığında, kullanıcılar bir giriş sayfasına yönlendirilirler. Bu sayfada, kullanıcılar araçları listelemek, yeni araç eklemek, araç bilgilerini güncellemek ve silmek için seçeneklere sahiptirler.
 
 Araç ekleme, güncelleme ve silme işlemleri sadece yönetici kullanıcıları tarafından gerçekleştirilebilir.
+...
