@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-04-30 at 02 02 15](https://user-images.githubusercontent.com/118459085/235375362-f4215db4-332f-496c-b193-89419ae824c4.jpeg)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/QA5O9x4M)
 Uygulama, müşterilerin araç kiralama işlemlerini yönetmek için tasarlanmıştır.
 
@@ -20,3 +21,4 @@ Uygulama başlatıldığında, kullanıcılar bir giriş sayfasına yönlendiril
 
 Araç ekleme, güncelleme ve silme işlemleri sadece yönetici kullanıcıları tarafından gerçekleştirilebilir.
 ...
+![WhatsApp Image 2023-04-30 at 02 02 15](https://user-images.githubusercontent.com/118459085/235375369-e6ae802e-d852-456b-a249-2d3b0d33e725.jpeg)
